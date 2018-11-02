@@ -19,5 +19,7 @@ Route::get('about',function(){
 	return view('aboutUS');
 });
 
+hello eduardo, la
+
 
 /* testando*/
